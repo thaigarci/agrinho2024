@@ -9,8 +9,8 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #fa0404;
-    color: #333;
+    background-color: #757171;
+    color: #4b4949;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 }
 
 header {
-    background-color: #5484ec;
+    background-color: #c3d4f7;
     color: #688bfd;
     padding: 10px 0;
 }
@@ -58,7 +58,7 @@ article {
 }
 
 footer {
-    background-color: #ee1313;
+    background-color: #cfb6b6;
     color: #fff;
     text-align: center;
     padding: 10px 0;
